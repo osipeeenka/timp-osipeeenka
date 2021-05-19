@@ -17,3 +17,4 @@
 01_list.c - tree-wide traversal - array input,array output.
 02_list.c - direct tree traversal - array input, array output.
 03_list.c - reverse tree traversal - array input, array output.
+01_sorting.c - implementation of fast and pyramid sorting - array input, array output.
