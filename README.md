@@ -6,3 +6,4 @@
 16_diff_btw_odd_and_even_cubes.c - the difference between the sums of odd and even cubes - double input, double output.
 01_lists.c - working with singly linked lists - array input, array output.
 02_lists.c - working with doubly linked lists - arrae input, array output.
+01_bst.c - working with binary search trees - array input, array output.
