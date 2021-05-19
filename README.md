@@ -4,3 +4,4 @@
 03_pow.c - print y power of x - double input, double output.
 06_count_positive.c - number of positive numbers - int input, int output.
 16_diff_btw_odd_and_even_cubes.c - the difference between the sums of odd and even cubes - double input, double output.
+01_lists.c - working with singly linked lists - array input, array output.
